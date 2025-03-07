@@ -1,5 +1,4 @@
 # Hi there, welcome to my GitHub!
-----
 
 ## Web App & Mobile Web App Developer at Virufy
 - 🔭 Most of my projects can be viewed live (here)[https://j-gaynor.github.io/joseph-gaynor/].
